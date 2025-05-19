@@ -49,7 +49,6 @@ version: "1.0"
   <img src="img/Estrechamiento.jpg" alt="Estrechamiento de manos"><br>
   Bru-nO <em>(Pixabay License)</em>
 </p>
-![Hola](https://github.com/Sio-Sanch/Sio-Sanch.github.io/blob/main/01-Lecciones/img/Estrechamiento.jpg?raw=true)
 
 ### Objetivos
 
