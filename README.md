@@ -1,5 +1,5 @@
-![Portada](./00-Introducción/img/portada.jpg)
-### [Presentación del curso](./00-Introducción/)
+![Portada](./00-Introduccion/img/portada.jpg)
+### [Presentación del curso](./00-Introduccion/)
 ### [Tema 1 - Lecciones](./01-Lecciones/)
 ### [Tema 2 - Casos Gramaticales](./02-Casos-Gramaticales/)
 ### [Tema 3 - Guía de viaje](./03-Guia%20de%20viaje/)
