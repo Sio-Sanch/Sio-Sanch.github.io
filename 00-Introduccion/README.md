@@ -13,8 +13,8 @@ Por último, el cuarto bloque incluye una narrativa interactiva donde deberán t
 Deseo que estos materiales les sean muy útiles y que disfruten aprendiendo con ellos. Los he realizado con mucho cariño.
 
 **¡Vamos a empezar!**
-### 📥 [Presentación del curso](/00-Introduccion/dist/Presentacion.pdf)
-### 📥 [Presentación del curso](../00-Introduccion/dist/Presentacion.pdf)
+### [Presentación del curso]({{ site.baseurl }}/00-Introduccion/dist/Presentacion.pdf)
+
 ### 📥 [Presentación del curso](00-Introduccion/dist/Presentacion.pdf)
 
 ### ➡️ [Siguiente lección](../01-Lecciones/README.md)
