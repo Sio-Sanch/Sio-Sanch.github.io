@@ -13,9 +13,7 @@ Por último, el cuarto bloque incluye una narrativa interactiva donde deberán t
 Deseo que estos materiales les sean muy útiles y que disfruten aprendiendo con ellos. Los he realizado con mucho cariño.
 
 **¡Vamos a empezar!**
-### 📄 Apuntes de la lección  
-
-### 📥 [Presentación del curso](/00-Introducción/dist/Presentacion.pdf)
+### 📥 [Presentación del curso](https://github.com/Sio-Sanch/Sio-Sanch.github.io/blob/main/00-Introducci%C3%B3n/dist/Presentacion.pdf)
 ### ➡️ [Siguiente lección](../01-Lecciones/README.md)
 
 
