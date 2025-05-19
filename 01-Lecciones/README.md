@@ -27,5 +27,5 @@ Pedir comida y bebida, interactuar con camareros y pedir la cuenta.
 
 ### 📄 Apuntes de la lección  
 #### 📥 [Descargar apuntes en PDF](../01-Lecciones/lecciones.pdf)
-### ⬅️ [Introducción]([../00-Introducción/README.md](https://github.com/Sio-Sanch/Sio-Sanch.github.io/blob/main/00-Introducci%C3%B3n/dist/Presentacion.pdf))
+### ⬅️ [Introducción](../00-Introduccion/README.md)
 ### ➡️ [Siguiente lección](../02-Casos-Gramaticales/README.md)
