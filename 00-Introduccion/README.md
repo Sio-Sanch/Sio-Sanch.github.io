@@ -15,7 +15,8 @@ Deseo que estos materiales les sean muy útiles y que disfruten aprendiendo con 
 **¡Vamos a empezar!**
 ### [Presentación del curso]({{ site.baseurl }}/00-Introduccion/dist/Presentacion.pdf)
 
-### 📥 [Presentación del curso](00-Introduccion/dist/Presentacion.pdf)
+### 📥 [Presentación del curso](../00-Introduccion/dist/Presentacion.pdf)
+
 
 ### ➡️ [Siguiente lección](../01-Lecciones/README.md)
 
