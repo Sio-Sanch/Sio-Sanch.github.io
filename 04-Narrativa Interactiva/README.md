@@ -8,6 +8,6 @@ Si escogen una opción incorrecta, **volverán al inicio**, lo que les permitir�
 Este formato lúdico refuerza el aprendizaje a través de la repetición significativa y el pensamiento crítico, ¡todo mientras se divierten!
 
 ### 📄 Apuntes de la lección  
-#### 📥 [Descargar apuntes en PDF](../04-Narrativa%20Interactiva/dist/NarracionInteractiva-Siomara.pdf)
+#### 📥 [Descargar la narrativa](../04-Narrativa%20Interactiva/dist/NarracionInteractiva-Siomara.pdf)
 
 ### ⬅️ [Anterior lección](../03-Guia%20de%20viaje/README.md)
