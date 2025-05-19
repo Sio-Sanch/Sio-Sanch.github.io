@@ -1,0 +1,73 @@
+    <style>
+    .reveal {
+        font-family: Lucida Sans Regular;
+        font-size: 16px;
+        color: #333;
+        background-color: #e6f4ffaa;
+    }
+
+    .reveal h1 {
+        font-weight: bold;
+        font-size: 3em;
+        color: #0056b3;
+        padding-bottom: 5px;
+    }
+
+    .reveal h2 {
+        font-weight: bold;
+        font-size: 3em;
+        color: #0056b3;
+        padding-bottom: 5px;
+        border-bottom: 2px solid #0056b3;
+    }
+
+    .reveal p {
+        line-height: 1.6;
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+
+    /* Diapositiva activa (present) */
+    .reveal .present {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    /* Diapositiva pasada (past) - se desvanece y se aleja */
+    .reveal .past {
+        opacity: 0;
+        transform: scale(0.5);
+        /* Se aleja */
+    }
+
+    /* Diapositiva futura (future) - se desvanece y se acerca */
+    .reveal .future {
+        opacity: 0;
+        transform: scale(1.5);
+        /* Se acerca */
+    }
+
+    /* Code block styles */
+    .reveal pre code {
+        background-color: #f7f7f7;
+        border: 1px solid #ddd;
+        padding: 8px;
+        display: block;
+        white-space: pre;
+        overflow-x: auto;
+        border-radius: 3px;
+    }
+
+    /* Lists styling */
+    .reveal ul,
+    .reveal ol {
+        margin-left: 15px;
+    }
+
+    .reveal ul li,
+    .reveal ol li {
+        margin-bottom: 8px;
+        font-size: 18px;
+    }
+    </style>
+

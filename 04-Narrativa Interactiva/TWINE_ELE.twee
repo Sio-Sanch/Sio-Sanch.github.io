@@ -1,0 +1,520 @@
+:: StoryTitle
+TWINE_ELE
+
+
+:: StoryData
+{
+  "ifid": "5e1da811-c20a-4ba0-9c46-8d019c97edf5",
+  "format": "Chapbook",
+  "format-version": "2.3.0",
+  "start": "01-Vestíbulo del Aeropuerto",
+  "zoom": 1
+}
+
+
+:: 01-Vestíbulo del Aeropuerto {"position":"400,275","size":"100,100"}
+config.style.googleFont: '<link href="https://fonts.googleapis.com/css?family=Times New Roman" rel="stylesheet">'
+
+config.style.page.font = 'Times New Roman, serif'
+
+config.header.center: ""
+
+config.footer.center: "2025"
+
+config.header.right: "Siomara Sánchez"
+
+config.header.left: "Enseñanza ELE"
+
+config.style.backdrop: 'white-3'
+
+config.style.dark.backdrop: 'grey-6'
+
+--
+
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}   
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 1: En el aeropuerto</h3>
+
+<div style="text-align: center;">
+  <img src="img/proyecto/pasaporte.jpg" alt="pasaporte" style="display: block; margin: 0 auto;"> 
+  <div style="font-size: 0.75em; margin-top: 4px;">
+Jackmac34 (Pixabay License)<br>
+  </div>
+</div>
+
+Llegas al aeropuerto de Madrid tras un vuelo largo, pero tranquilo. Estás algo cansado, pero emocionado: ¡es tu primer viaje a España! Recoges tu mochila, sales del avión y sigues las señales que indican "Control de pasaportes". A tu alrededor, otros pasajeros hacen fila, algunos conversan en voz baja, otros revisan sus documentos con nerviosismo.
+
+Te colocas en la cola correspondiente y, cuando llega tu turno, un agente de policía nacional te recibe con un gesto serio pero cordial. Te mira directamente a los ojos y te dice:
+
+— Buenas tardes. ¿Pasaporte, por favor?
+
+Sabes que este es tu primer contacto verbal en España y quieres causar una buena impresión.
+¿Qué respondes?
+
+[[Hola, aquí tiene mi pasaporte.|02-La recogida de equipaje]]
+
+[[Buenos días. Aquí tiene mi pasaporte. Disculpe, ¿podría indicarme dónde está el baño, por favor?|02-La recogida de equipaje]]
+
+[[Yo querer maleta ahora.|01-Vestíbulo del Aeropuerto]]
+
+
+
+
+
+
+
+:: 02-La recogida de equipaje {"position":"100,600","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 2: La recogida de equipaje</h3>
+
+<div style="text-align: center;">
+  <img src="img/proyecto/cinta.jpg" alt="cinta" style="display: block; margin: 0 auto;"> 
+  <div style="font-size: 0.75em; margin-top: 4px;">
+  Djedj (Pixabay License)<br> 
+  </div>
+</div>
+
+Después de pasar el control de pasaportes, sigues las indicaciones hasta la zona de recogida de equipaje. Escuchas el murmullo de los altavoces, el rodar de las maletas sobre la cinta transportadora y las conversaciones de otros viajeros.
+
+Esperas pacientemente junto a la cinta número 4, donde deberían aparecer las maletas de tu vuelo. Una tras otra, los demás pasajeros recogen sus pertenencias y se marchan… pero la tuya no aparece.
+
+Empiezas a inquietarte. Pasan los minutos y la cinta se detiene. No queda nadie más esperando. Justo entonces, ves a un empleado del aeropuerto que se acerca con chaleco reflectante y una carpeta en la mano.
+
+Sabes que tienes que comunicarle el problema con claridad.
+¿Qué dices?
+
+[[Disculpe, mi maleta no ha salido en la cinta. ¿Podría ayudarme a encontrarla, por favor?|03-El hotel]]
+
+[[Hola, estoy buscando mi maleta. Es roja, ¿me puede decir si la ha visto, por favor?|03-El hotel]]
+
+[[Tú encontrar maleta yo.|01-Vestíbulo del Aeropuerto]] 
+
+
+
+
+
+
+
+
+
+
+:: 03-El hotel {"position":"300,600","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 3: El hotel</h3>
+
+<div style="text-align: center;">
+  <img src="img/proyecto/recepcionista.jpg" alt="recepcionista" style="display: block; margin: 0 auto;"> 
+  <div style="font-size: 0.75em; margin-top: 4px;">
+   ASPhotohrapy (Pixabay License)<br>
+  </div>
+</div>
+
+Después de una breve espera en la zona de equipajes, logras recuperar tu maleta. Un empleado del aeropuerto te ayudó amablemente a localizarla: se había quedado en otro carrito. Aliviado, sales del edificio principal y tomas un taxi que te lleva hasta el centro de Madrid, donde has reservado una habitación para tus primeras noches.
+
+El hotel es pequeño pero acogedor. La recepcionista te sonríe al verte entrar con tu equipaje y te pide el documento de identidad. Haces el check-in sin problemas y subes a dejar tus cosas a la habitación. Tras unos minutos para descansar y refrescarte, decides que ha llegado la hora de salir a cenar.
+[after 3 second]
+Vuelves a bajar a recepción y, con ánimo de practicar tu español y conocer la zona, te diriges a la recepcionista.
+¿Qué dices?
+
+[[Buenas tardes, ¿podría recomendarme algún restaurante cerca del hotel, por favor?|04-El restaurante]]
+
+[[Perdone, ¿dónde podría cenar algo por aquí esta noche?|04-El restaurante]]
+
+[[Comida tener cerca lugar?|01-Vestíbulo del Aeropuerto]] 
+
+
+
+
+:: 04-El restaurante {"position":"500,600","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 4: El restaurante</h3>
+
+Siguiendo las indicaciones de la recepcionista, caminas unas pocas calles desde el hotel. Es una zona animada, con terrazas, bares de tapas y gente paseando. El aire huele a comida recién hecha y el ambiente es acogedor.
+
+<div style="text-align: center;">
+  <img src="img/proyecto/comidachina.jpg" alt="comida china" style="display: block; margin: 0 auto;"> 
+  <div style="font-size: 0.75em; margin-top: 4px;">
+Unitea (Pixabay License)<br>
+  </div>
+</div>
+
+En la misma calle hay dos restaurantes recomendados: uno es un restaurante chino con farolillos rojos en la entrada y menú del día en español e inglés; el otro es un restaurante italiano con una terraza iluminada, donde ya hay varios comensales disfrutando de sus platos.
+
+Tienes hambre y estás decidido a cenar bien… pero también quieres practicar tu español al hacer el pedido.
+¿Qué haces?
+
+[[Entras en el restaurante chino y saludas al camarero: "Buenas noches, ¿tienen menú del día?"|05-Paseo por la ciudad]]
+
+[[Te acercas al restaurante italiano y preguntas: "¿Podría ver la carta, por favor?"|05-Paseo por la ciudad]]
+
+[[Tú darme comida cena ahora, mucha hambre.|01-Vestíbulo del Aeropuerto]] 
+
+
+
+:: 05-Paseo por la ciudad {"position":"700,600","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 5: Paseo por la ciudad</h3>
+
+<div style="text-align: center;">
+  <img src="img/proyecto/madrid.jpg" alt="madrid" style="display: block; margin: 0 auto;"> 
+  <div style="font-size: 0.75em; margin-top: 4px;">
+    javierAlamo (Pixabay License)<br>
+  </div>
+</div>
+
+Después de cenar, sales satisfecho del restaurante. La comida te ha sorprendido gratamente: si elegiste el restaurante chino, probaste unos noodles con gambas muy sabroso y un té jazmín que te ofrecieron al final. Si optaste por el italiano, disfrutaste de unos espaguetis a la carbonara y un tiramisú que te hizo sentir como en Roma.
+
+La noche madrileña está viva: hay música de fondo, turistas que hacen fotos y grupos de amigos charlando en las terrazas. Paseas sin prisa, observando los edificios iluminados y el ambiente relajado.
+
+Al doblar una esquina, ves una oficina de turismo todavía abierta. Piensas que puede ser buena idea informarte sobre visitas guiadas o actividades para el día siguiente.
+
+Entras, te acercas al mostrador y saludas al empleado que te recibe amablemente.
+¿Qué dices?
+
+[[Buenas noches, ¿ofrecen visitas guiadas por la ciudad mañana?|06-La excursión]]
+
+[[Hola, ¿tiene información sobre monumentos o museos interesantes por aquí?|06-La excursión]]
+
+[[Ciudad cosas ver tú saber qué yo hacer.|01-Vestíbulo del Aeropuerto]] 
+
+
+:: 06-La excursión {"position":"100,800","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 6: La excursión</h3>
+
+<div style="text-align: center;">
+  <img src="img/proyecto/excursiónguiada.jpg" alt="excursión guiada" style="display: block; margin: 0 auto;"> 
+  <div style="font-size: 0.75em; margin-top: 4px;">
+    NoName_13 (Pixabay License)<br>
+  </div>
+</div>
+
+A la mañana siguiente, tras desayunar en el hotel, te diriges al punto de encuentro para la visita guiada que reservaste en la oficina de turismo. El grupo es pequeño, con turistas de varios países. El guía, sonriente y con una carpeta llena de fotos antiguas, comienza explicando la historia de la ciudad mientras caminan por el casco antiguo.
+
+Durante la ruta, se detiene frente a una catedral impresionante y empieza a hablar rápidamente sobre su arquitectura y su historia. El grupo escucha atento, pero tú te das cuenta de que algunas palabras se te escapan.
+
+Cuando el guía hace una pausa, decides intervenir con educación para entender mejor lo que dice.
+
+¿Qué haces?
+
+[[Perdone, ¿podría hablar un poco más despacio, por favor? Es que no entiendo todo.|07-En la tienda]]
+
+[[Disculpe, ¿podría repetir lo que ha dicho sobre el siglo XVI? Me interesa mucho.|07-En la tienda]]
+
+[[Tú hablar muy rápido, yo no comprender nada.|01-Vestíbulo del Aeropuerto]]
+
+
+:: 07-En la tienda {"position":"300,800","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 7: En la tienda</h3>
+
+Después de casi dos horas de recorrido por el centro histórico, el guía propone una breve pausa. Justo al lado de la plaza donde se detiene el grupo, ves una pequeña tienda de recuerdos. En el escaparate hay postales, camisetas con frases divertidas, tazas, llaveros y abanicos con colores vivos.
+
+<div style="text-align: center;">
+  <img src="img/proyecto/tienda.jpg" alt="tienda souvenirs" style="display: block; margin: 0 auto;"> 
+  <div style="font-size: 0.75em; margin-top: 4px;">
+    Kasjanf (Pixabay License)<br>
+  </div>
+</div>
+
+Entras por curiosidad y te recibe una dependienta simpática. Te gustaría comprar algo pequeño para recordar tu primer día en España... o tal vez un regalo para alguien especial.
+
+Te acercas a uno de los estantes.
+¿Qué le dices a la dependienta?
+
+[[Buenos días. Quisiera una camiseta como esa, pero en otra talla. ¿Tiene una M?|08-Perdido en el camino]]
+
+[[Hola, me gustaría saber cuánto cuesta este abanico azul, por favor.|08-Perdido en el camino]]
+
+[[Yo querer cosa bonita, cuánto valer esto.|01-Vestíbulo del Aeropuerto]]
+
+
+
+
+
+
+
+:: 08-Perdido en el camino {"position":"500,800","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 8: Perdido en el camino</h3>
+
+Sales de la tienda con tu compra y decides dar un pequeño paseo antes de volver al hotel. Las calles están llenas de vida, pero, tras caminar varios minutos, te das cuenta de que no sabes exactamente dónde estás. Has girado dos o tres esquinas y todo te resulta un poco confuso.
+
+<div style="text-align: center;">
+  <img src="img/proyecto/latina.jpg" alt="metro La Latina" style="display: block; margin: 0 auto;"> 
+  <div style="font-size: 0.75em; margin-top: 4px;">
+    Altamart (Pexels License)<br>
+  </div>
+</div>
+
+Miras a tu alrededor. Ves una pareja sentada en un banco, un quiosco con un señor mayor leyendo el periódico y una joven que parece estar consultando un mapa en el móvil.
+
+Sabes que debes preguntar para orientarte.
+¿Qué haces?
+
+[[Disculpe, ¿sabe cómo puedo llegar al hotel Gran Vía? Creo que estoy un poco perdido.|09-El final del día]]
+
+[[Hola, perdone, ¿hay una estación de metro cerca? Estoy buscando cómo volver al hotel.|09-El final del día]]
+
+[[Dónde hotel mío estar ahora, tú decir yo.|01-Vestíbulo del Aeropuerto]] 
+
+
+
+
+
+
+:: 09-El final del día {"position":"700,800","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 9: El final del día</h3>
+
+Gracias a las indicaciones que recibes, logras encontrar el camino de regreso. Caminar por la ciudad te ha cansado, pero también te ha hecho sentir más independiente. De vuelta en tu habitación, piensas en todo lo que has vivido hoy: la llegada al aeropuerto, el hotel, la cena, la excursión, las compras... y ahora también una pequeña aventura callejera.
+{reveal link: 'Antes de dormir,' , text: 'Decides enviar un mensaje  a alguien cercano para compartir tu experiencia y llamar por teléfono a tu prima para felicitarla por su cumpleaños.'}
+
+<div style="text-align: center;">
+  <img src="img/proyecto/camadeshecha.png" alt="cama deshecha" style="display: block; margin: 0 auto;">
+  <div style="font-size: 0.75em; margin-top: 4px;">Imagen generada por IA (ChatGPT – DALL·E)<br>
+</div>
+
+[[¡Hola! Hoy ha sido mi primer día en Madrid. He paseado por el centro, he hecho una visita guiada y he comprado un recuerdo. ¡Estoy muy contento!|10-Despedida y reflexión]]
+
+[[Hola. Estoy en Madrid. Paseo, comida, comprar cosa. Mucho calor.|01-Vestíbulo del Aeropuerto]] 
+
+
+
+
+
+
+
+
+
+
+:: 10-Despedida y reflexión {"position":"900,700","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/proyecto/portada.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background: linear-gradient(90deg, #708090, #C3B1E1); 
+}
+
+#page article { 
+   background-color: #E5E5E5; 
+   padding: 3em;
+}
+[continue]
+<h1 style="color: white; text-align: center; padding: 18px; background: linear-gradient(90deg, #708090, #C3B1E1);">Viaje interactivo: Habla español en Madrid</h1>
+
+<h3 style="color:#2C3E50; font-weight: bold;">Capítulo 10: Despedida y reflexión</h3>
+
+Tras enviar el mensaje, te sientes satisfecho. Has usado el español en situaciones reales y variadas: desde pedir ayuda en el aeropuerto hasta preguntar una dirección en la calle. Has cometido errores, pero también has tenido pequeños logros.
+
+<div style="text-align: center;">
+  <img src="img/proyecto/MadridNocturna.png" alt="Vista nocturna de Madrid" style="display: block; margin: 0 auto;">
+  <div style="font-size: 0.75em; margin-top: 4px;">Imagen generada por IA (ChatGPT – DALL·E)<br>
+</div>
+
+Te das cuenta de que comunicarte en otro idioma es mucho más que conocer vocabulario: es escuchar, improvisar y atreverse.
+
+Antes de dormir, miras por la ventana de tu habitación. [[Madrid sigue iluminada.|img/proyecto/ventana.jpg]] Mañana será otro día... y tú estás listo para seguir practicando.
+
+>[[FIN|01-Vestíbulo del Aeropuerto]] 
+
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer">
+  <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Licencia Creative Commons BY 4.0" />
+</a>
+
+
+
+
+:: img/proyecto/ventana.jpg {"position":"1075,700","size":"100,100"}
+<div style="text-align: center;">
+  <img src="img/proyecto/ventana.jpg" alt="Vistas nocturnas" style="display: block; margin: 0 auto;"> 
+  <div style="font-size: 0.75em; margin-top: 4px;">
+Philippsaal (Pixabay License)<br>
+  </div>
+</div>
+

@@ -1,0 +1,34 @@
+---
+title: "Guía de supervivencia en Madrid"
+creator:
+  - role: "author"
+    text: "Siomara Sánchez"
+date: "2025-05-01"
+sections:
+  - title: "Capítulo 1: Primeros pasos"
+    subsections:
+      - "Saludos y despedidas"
+      - "Frases básicas de cortesía"
+      - "Números"
+      - "Días de la semana"
+      - "Colores"
+      - "Frases útiles para viajar"
+  - title: "Capítulo 2: Moverse por la ciudad"
+    subsections:
+      - "Cómo pedir direcciones"
+      - "Indicaciones básicas"
+      - "Medios de transporte"
+      - "En el aeropuerto o estación"
+  - title: "Capítulo 3: Alojamiento y restaurantes"
+    subsections:
+      - "Reservar alojamiento"
+      - "Pedir comida y bebida"
+      - "La cuenta"
+  - title: "Apéndice"
+    subsections:
+      - "Mapa turístico de Madrid"
+      - "Guía completa de recursos"
+      - "Vocabulario esencial de consulta "
+      - "Comida típica en Madrid"
+      - "Platos destacados"
+...
