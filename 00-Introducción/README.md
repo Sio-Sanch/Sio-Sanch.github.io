@@ -14,7 +14,8 @@ Deseo que estos materiales les sean muy útiles y que disfruten aprendiendo con 
 
 **¡Vamos a empezar!**
 ### 📄 Apuntes de la lección  
-### 📥 [Presentación del curso](../00-Introducción/dist/Presentacion.pdf)
+
+### 📥 [Presentación del curso](/00-Introducción/dist/Presentacion.pdf)
 ### ➡️ [Siguiente lección](../01-Lecciones/README.md)
 
 
