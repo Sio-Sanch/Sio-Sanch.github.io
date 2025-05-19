@@ -1,6 +1,7 @@
 # 📚 Primer Tema
 
-## 👋 Lección 1: Nos conocemos
+## 👋 Lección 1: Nos conocemos [Ir a Lección 1](lecciones.md#leccion-1-nos-conocemos)
+
 Dar y pedir información personal: nombre, edad, nacionalidad, profesión, etc.
 
 ## 🛒 Lección 2: En el supermercado
