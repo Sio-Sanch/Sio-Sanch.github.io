@@ -18,6 +18,8 @@ Además, realizaremos ejercicios prácticos para afianzar su uso correcto en con
 
 ### 📄 Apuntes de la lección  
 #### 📥 [Descargar apuntes en PDF](../02-Casos-Gramaticales/dist/Casos-Gramaticales.pdf)
+<a href="/02-Casos-Gramaticales/dist/Casos-Gramaticales.pdf" target="_blank">Descargar apuntes en PDF</a>
+<a href="/02-Casos-Gramaticales/index.html" target="_blank">Ver presentación (Reveal.js)</a>
 
 ### ⬅️ [Anterior lección](../01-Lecciones/README.md)
 ### ➡️ [Siguiente lección](../03-Guia%20de%20viaje/README.md)

@@ -48,8 +48,8 @@
 
 📌 Navegación sencilla entre capítulos.
 
-### 📄 Apuntes de la lección  
-#### 📥 [Descargar el eBook en formato PDF](../03-Guia%20de%20viaje/dist/Guia%20de%20supervivencia%20en%20Madrid%20-%20Siomara%20Sanchez.pdf)
+### 📥 <a href="/03-Guia de viaje/dist/Guia de supervivencia en Madrid - Siomara Sanchez.pdf" target="_blank">Descargar el eBook en formato PDF</a> 
+#### 📥 <a href="/03-Guia de viaje/dist/guia_madrid.epub" target="_blank">Descargar el eBook en formato epub</a>
 
 ### ⬅️ [Anterior lección](../02-Casos-Gramaticales/README.md)
 ### ➡️ [Siguiente lección](../04-Narrativa%20Interactiva/README.md)
