@@ -7,7 +7,6 @@ Si escogen una opción incorrecta, **volverán al inicio**, lo que les permitir�
 
 Este formato lúdico refuerza el aprendizaje a través de la repetición significativa y el pensamiento crítico, ¡todo mientras se divierten!
 
-### 📄 Apuntes de la lección  
 #### 📥 <a href="/04-Narrativa Interactiva/TWINE_ELE.twee" target="_blank">Descargar la narrativa en formato .twee</a> 
 #### 📥 <a href="/04-Narrativa Interactiva/TWINE_ELE.html" target="_blank">Descargar la narrativa en formato html</a> 
-### ⬅️ [Anterior lección](../03-Guia%20de%20viaje/README.md)
+#### ⬅️ [Anterior lección](../03-Guia%20de%20viaje/README.md)
