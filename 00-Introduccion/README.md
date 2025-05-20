@@ -13,7 +13,7 @@ Por último, el cuarto bloque incluye una narrativa interactiva donde deberán t
 Deseo que estos materiales les sean muy útiles y que disfruten aprendiendo con ellos. Los he realizado con mucho cariño.
 
 **¡Vamos a empezar!**
-#### 📥 [Presentación del curso]<a href="/00-Introduccion/dist/Presentacion.pdf" target="_blank">Descargar presentación del curso</a>
+#### 📥 <a href="/00-Introduccion/dist/Presentacion.pdf" target="_blank">Descargar presentación del curso</a>
 #### ➡️ [Siguiente lección](../01-Lecciones/README.md)
 
 
