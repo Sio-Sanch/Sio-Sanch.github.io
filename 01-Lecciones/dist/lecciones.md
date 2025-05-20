@@ -13,7 +13,7 @@ version: "1.0"
 ## Lección 1: Nos conocemos
 
 <p align="center">
-  <img src="img/Estrechamiento.jpg" alt="Estrechamiento de manos"><br>
+  <img src="../img/Estrechamiento.jpg" alt="Estrechamiento de manos"><br>
   Bru-nO <em>(Pixabay License)</em>
 </p>
 
@@ -107,7 +107,7 @@ Os recomiendo como material complementario ver el siguiente vídeo al que podéi
 ## Lección 2: En el supermercado
 
 <p align="center">
-  <img src="img/Supermercado.jpg" alt="Supermercado"><br>
+  <img src="../img/Supermercado.jpg" alt="Supermercado"><br>
   Alexas_Fotos <em>(Pixabay License)</em>
 </p>
 
@@ -189,7 +189,7 @@ Os recomiendo como material complementario ver el siguiente vídeo al que podéi
 ## Lección 3: Hablando de la familia
 
 <p align="center">
-  <img src="img/Familia.jpg" alt="familia"><br>
+  <img src="../img/Familia.jpg" alt="familia"><br>
   chillla70 <em>(Pixabay License)</em>
 </p>
 
@@ -248,7 +248,7 @@ Os recomiendo como material complementario ver el siguiente vídeo al que podéi
 ## Lección 4: En el restaurante
 
 <p align="center">
-  <img src="img/Restaurante.png" alt="Camarero"><br>
+  <img src="../img/Restaurante.png" alt="Camarero"><br>
   Yan Krukau <em>(Pexels License)</em>
 </p>
 
