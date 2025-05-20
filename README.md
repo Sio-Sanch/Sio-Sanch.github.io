@@ -1,5 +1,5 @@
 ![Portada](./00-Introduccion/img/portada.jpg)
-[Presentación del curso](//00-Introduccion/README.md)
+[Presentación del curso](/00-Introduccion/README.md)
 <a href="/00-Introduccion/dist/Presentacion.pdf" target="_blank">Presentación</a>
 ### [Tema 1 - Lecciones](/01-Lecciones/)
 ### [Tema 2 - Casos Gramaticales](/02-Casos-Gramaticales/)
