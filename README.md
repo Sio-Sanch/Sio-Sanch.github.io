@@ -1,7 +1,5 @@
 ![Portada](./00-Introduccion/img/portada.jpg) 
-### [Presentación del curso](./00-Introduccion/README.md)
-![curso](./00-Introduccion/README.md)
-[hola](./00-Introduccion/README.md)
+### [Presentación del curso](00-Introduccion/README.md)
 ### [Tema 1 - Lecciones](/01-Lecciones/)
 ### [Tema 2 - Casos Gramaticales](/02-Casos-Gramaticales/)
 ### [Tema 3 - Guía de viaje](/03-Guia%20de%20viaje/)
