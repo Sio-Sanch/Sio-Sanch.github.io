@@ -1,5 +1,4 @@
 ![Portada](./00-Introduccion/img/portada.jpg) 
-### [Presentación del curso](https://github.com/Sio-Sanch/Sio-Sanch.github.io/blob/main/00-Introduccion/README.md)
 [Presentación del curso](https://github.com/Sio-Sanch/Sio-Sanch.github.io/blob/main/00-Introduccion/README.md)
 ### [Tema 1 - Lecciones](/01-Lecciones/)
 ### [Tema 2 - Casos Gramaticales](/02-Casos-Gramaticales/)
