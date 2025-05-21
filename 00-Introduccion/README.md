@@ -1,8 +1,5 @@
 <img src="/00-Introduccion/img/portada.jpg" alt="Portada">
 <br></br>
-<br></br>
-<br></br>
-<br></br>
 
 # ¡Hola a todos!
 
