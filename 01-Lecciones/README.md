@@ -1,6 +1,6 @@
 # 📚 Primer Tema
 
-## Lecciones (1-4)
+## 📝 Lecciones (1-4)
 
 ### 👋 Lección 1: Nos conocemos 
 
