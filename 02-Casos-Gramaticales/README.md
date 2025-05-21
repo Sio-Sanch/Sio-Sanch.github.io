@@ -5,7 +5,7 @@ Conoceremos y practicaremos las principales categorías gramaticales:
 pronombres, sustantivos, determinantes, verbos, adjetivos, adverbios,  
 conjunciones, preposiciones e interjecciones.  
 
-Además, realizaremos ejercicios prácticos para afianzar su uso correcto en contextos reales.
+Además, realizaremos un ejercicio práctico al final de la presentación para afianzar su uso correcto en contextos reales.
 
 ## 🧰 Recursos disponibles  
 📄 Apuntes en PDF para descargar y repasar.  
