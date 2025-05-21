@@ -40,8 +40,6 @@
 - Platos destacados  
 
 # 🧰 Recursos disponibles  
-🗂️ Archivos README.md con contenidos detallados.  
-
 📄 Apuntes en PDF descargables.  
 
 ♿ Contenido accesible con textos para lectores de pantalla, enlaces directos, descripciones alternativas en imágenes. 

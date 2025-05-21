@@ -8,8 +8,6 @@ conjunciones, preposiciones e interjecciones.
 Además, realizaremos ejercicios prácticos para afianzar su uso correcto en contextos reales.
 
 # 🧰 Recursos disponibles  
-🗂️ Archivos README.md con contenido y explicaciones detalladas.  
-
 📄 Apuntes en PDF para descargar y repasar.  
 
 ♿ Contenido accesible: adaptado para lectores de pantalla y con vídeos subtitulados.  

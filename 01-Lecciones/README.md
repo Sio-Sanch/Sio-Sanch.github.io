@@ -14,8 +14,6 @@ Describir la familia y hablar de sus miembros y profesiones.
 Pedir comida y bebida, interactuar con camareros y pedir la cuenta.
 
 # 🧰 Recursos disponibles
-🗂️ Archivos README.md en cada lección con el contenido de cada lección.
-
 📄 Apuntes en PDF descargables.
 
 🎧 Diálogos.
