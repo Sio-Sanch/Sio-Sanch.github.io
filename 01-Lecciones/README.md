@@ -14,12 +14,11 @@
 - Nombrar miembros básicos de la familia.
 - Hablar sobre la composición familiar propia.
 ### 🍽️ Lección 4: En el restaurante
-\- Pedir comida y bebida en un restaurante.
-\- Usar frases comunes al interactuar con camareros.
-\- Conocer vocabulario básico de comidas y bebidas.
-\- Pedir la cuenta.
-    
-    
+- Pedir comida y bebida en un restaurante.
+- Usar frases comunes al interactuar con camareros.
+- Conocer vocabulario básico de comidas y bebidas.
+- Pedir la cuenta.
+---    
 ## 🧰 Recursos disponibles
 📄 Apuntes en PDF descargables.
 
