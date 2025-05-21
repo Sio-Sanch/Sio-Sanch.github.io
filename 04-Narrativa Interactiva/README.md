@@ -1,6 +1,6 @@
 # 📚 Cuarto Tema
 
-En este bloque, los estudiantes participarán en una **historia interactiva** en la que deberán **tomar decisiones** a medida que avanza la narrativa.
+En este bloque, los estudiantes participarán en una **historia interactiva** en la que deberán tomar decisiones a medida que avanza la narrativa.
 
 >⚠️ **¡Atención!**  
 >**Si escogen una opción incorrecta**, volverán al inicio, lo que les permitirá practicar de nuevo y mejorar su **comprensión lectora** y **toma de decisiones** en español.
