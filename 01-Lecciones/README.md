@@ -3,9 +3,8 @@
 ## 📝 Lecciones (1-4)
 
 ### 👋 Lección 1: Nos conocemos 
-
-Dar y pedir información personal: nombre, edad, nacionalidad, profesión, etc.
-
+- Dar y pedir información personal: nombre, edad, nacionalidad, profesión, etc.
+- Reforzar el uso de estructuras gramaticales simples como los verbos *ser*, *tener*, *llamarse* y *vivir* en situaciones comunicativas reales.
 ### 🛒 Lección 2: En el supermercado
 Preguntar precios, hablar de cantidades y formas de pago.
 
