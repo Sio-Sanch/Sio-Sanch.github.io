@@ -2,7 +2,8 @@
 
 ## 🗺️ Guía de supervivencia en Madrid
 
-### Capítulo 1: Primeros pasos  
+<a href="/03-Guia de viaje/src/cap01.md">Capítulo 1: Primeros pasos</a>
+  
 - Saludos y despedidas  
 - Frases básicas de cortesía  
 - Números  
