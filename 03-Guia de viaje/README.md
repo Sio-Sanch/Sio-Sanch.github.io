@@ -39,7 +39,7 @@
 - Comida típica en Madrid  
 - Platos destacados  
 
-# 🧰 Recursos disponibles  
+## 🧰 Recursos disponibles  
 📄 Apuntes en PDF descargables.  
 
 ♿ Contenido accesible con textos para lectores de pantalla, enlaces directos, descripciones alternativas en imágenes. 

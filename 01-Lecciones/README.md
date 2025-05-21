@@ -1,19 +1,21 @@
 # 📚 Primer Tema
 
-## 👋 Lección 1: Nos conocemos 
+## Lecciones (1-4)
+
+### 👋 Lección 1: Nos conocemos 
 
 Dar y pedir información personal: nombre, edad, nacionalidad, profesión, etc.
 
-## 🛒 Lección 2: En el supermercado
+### 🛒 Lección 2: En el supermercado
 Preguntar precios, hablar de cantidades y formas de pago.
 
-## 👨‍👩‍👧 Lección 3: Hablando de la familia
+### 👨‍👩‍👧 Lección 3: Hablando de la familia
 Describir la familia y hablar de sus miembros y profesiones.
 
-## 🍽️ Lección 4: En el restaurante
+### 🍽️ Lección 4: En el restaurante
 Pedir comida y bebida, interactuar con camareros y pedir la cuenta.
 
-# 🧰 Recursos disponibles
+## 🧰 Recursos disponibles
 📄 Apuntes en PDF descargables.
 
 🎧 Diálogos.
