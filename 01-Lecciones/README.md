@@ -6,14 +6,18 @@
 - Dar y pedir información personal: nombre, edad, nacionalidad, profesión, etc.
 - Reforzar el uso de estructuras gramaticales simples como los verbos *ser*, *tener*, *llamarse* y *vivir* en situaciones comunicativas reales.
 ### 🛒 Lección 2: En el supermercado
-Preguntar precios, hablar de cantidades y formas de pago.
-
+- Preguntar y entender precios de productos.
+- Usar unidades de medida comunes (kilo, unidad, gramos).
+- Conocer las diferentes formas de pago (efectivo, tarjeta, apps).
 ### 👨‍👩‍👧 Lección 3: Hablando de la familia
-Describir la familia y hablar de sus miembros y profesiones.
-
+- Preguntar cuántas personas hay en una familia.
+- Nombrar miembros básicos de la familia.
+- Hablar sobre la composición familiar propia.
 ### 🍽️ Lección 4: En el restaurante
-Pedir comida y bebida, interactuar con camareros y pedir la cuenta.
-
+- Pedir comida y bebida en un restaurante.
+- Usar frases comunes al interactuar con camareros.
+- Conocer vocabulario básico de comidas y bebidas.
+- Pedir la cuenta.
 ## 🧰 Recursos disponibles
 📄 Apuntes en PDF descargables.
 
