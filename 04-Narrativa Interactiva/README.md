@@ -11,3 +11,4 @@ Este formato lúdico refuerza el aprendizaje a través de la repetición signifi
 #### 📥 <a href="/04-Narrativa Interactiva/TWINE_ELE.html" target="_blank">Descargar la historia interactiva en formato HTML</a> 
 #### 📥 <a href="/04-Narrativa Interactiva/dist/NarracionInteractiva-Siomara.pdf" target="_blank">Descargar la historia en formato PDF</a>
 #### ⬅️ [Anterior lección](../03-Guia%20de%20viaje/README.md)
+#### ⬅️ [Volver al inicio](../00-Introduccion/README.md)
