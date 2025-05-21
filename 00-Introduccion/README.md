@@ -1,4 +1,4 @@
-![Portada](/00-Introduccion/img/portada.jpg) 
+<img src="/00-Introduccion/img/portada.jpg" alt="Portada">
 
 # ¡Hola a todos!
 
