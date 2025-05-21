@@ -1,4 +1,4 @@
-![Portada](./00-Introduccion/img/portada.jpg) 
+![Portada](/00-Introduccion/img/portada.jpg) 
 ### [Presentación del curso](/00-Introduccion/README.md)
 ### [Tema 1 - Lecciones](/01-Lecciones/README.md)
 ### [Tema 2 - Casos Gramaticales](/02-Casos-Gramaticales/README.md)
