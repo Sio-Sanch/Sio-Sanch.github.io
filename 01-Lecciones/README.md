@@ -18,8 +18,8 @@
 * Usar frases comunes al interactuar con camareros.
 * Conocer vocabulario básico de comidas y bebidas.
 *Pedir la cuenta.
+<!-- fin de la lista -->
 
-  
 ## 🧰 Recursos disponibles
 📄 Apuntes en PDF descargables.
 
