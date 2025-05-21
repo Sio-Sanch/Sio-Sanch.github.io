@@ -1,3 +1,5 @@
+![Portada](/00-Introduccion/img/portada.jpg) 
+
 # ¡Hola a todos!
 
 Les doy la bienvenida a este repositorio de materiales diseñados especialmente para el aprendizaje del español como lengua extranjera. Aquí encontrarán recursos organizados en cuatro bloques que cubren distintos aspectos clave para dominar el idioma de manera práctica y divertida.
