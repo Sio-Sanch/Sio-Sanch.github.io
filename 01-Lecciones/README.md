@@ -20,15 +20,15 @@
 - Pedir la cuenta.
     
 ## 🧰 Recursos disponibles
-- 📄 Apuntes en PDF descargables.
+📄 Apuntes en PDF descargables.
 
-- 🎧 Diálogos.
+🎧 Diálogos.
 
-- 📝 Ejercicios de comprensión y práctica por lección.
+📝 Ejercicios de comprensión y práctica por lección.
 
-- ♿ Contenido accesible: textos adaptados para lectores de pantalla, enlaces directos, y vídeos con subtítulos.
+♿ Contenido accesible: textos adaptados para lectores de pantalla, enlaces directos, y vídeos con subtítulos.
 
-- 📌 Navegación sencilla entre lecciones mediante enlaces al final de cada tema.
+📌 Navegación sencilla entre lecciones mediante enlaces al final de cada tema.
 
 #### 📥 <a href="/01-Lecciones/dist/lecciones.pdf" target="_blank">Descargar apuntes en PDF</a>
 #### ⬅️ [Introducción](../00-Introduccion/README.md)
