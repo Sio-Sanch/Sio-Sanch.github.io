@@ -3,7 +3,8 @@
 ## 🗺️ Guía de supervivencia en Madrid
 
 <h3><a href="/03-Guia de viaje/src/cap01.md">Capítulo 1: Primeros pasos</a></h3>
-  
+### [Capítulo 1: Primeros pasos](/03-Guia de viaje/cap01.md)
+
 - Saludos y despedidas  
 - Frases básicas de cortesía  
 - Números  
