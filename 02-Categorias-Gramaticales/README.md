@@ -8,7 +8,7 @@ conjunciones, preposiciones e interjecciones.
 Además, realizaremos un ejercicio práctico al final de la presentación para afianzar su uso correcto en contextos reales.
 
 ## 🧰 Recursos disponibles  
-📄 Apuntes en PDF para descargar y repasar el tema.  
+📄 Apuntes con ejercicios y sus soluciones en PDF para descargar y repasar el tema.  
 
 ♿ Contenido accesible: adaptado para lectores de pantalla y con un vídeo con subtítulos a través del enlace.  
 

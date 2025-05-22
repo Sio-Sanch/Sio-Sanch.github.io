@@ -42,7 +42,7 @@
 ## 🧰 Recursos disponibles  
 📄 Guía de viaje en PDF y EPUB descargables.  
 
-♿ Contenido accesible con textos para lectores de pantalla, enlaces directos, descripciones alternativas en imágenes. 
+♿ Contenido accesible con enlaces directos, descripciones alternativas en imágenes. 
 
 📌 Navegación sencilla entre capítulos.
 
