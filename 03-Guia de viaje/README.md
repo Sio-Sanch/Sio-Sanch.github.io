@@ -40,7 +40,7 @@
 - Platos destacados  
 
 ## 🧰 Recursos disponibles  
-📄 Apuntes en PDF descargables.  
+📄 Guía de viaje en PDF y EPUB descargables.  
 
 ♿ Contenido accesible con textos para lectores de pantalla, enlaces directos, descripciones alternativas en imágenes. 
 

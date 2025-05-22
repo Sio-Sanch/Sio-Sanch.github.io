@@ -25,9 +25,9 @@
 
 🎧 Diálogos.
 
-📝 Ejercicios de comprensión y práctica por lección.
+📝 Ejercicios de comprensión y práctica en cada lección.
 
-♿ Contenido accesible: textos adaptados para lectores de pantalla, enlaces directos, y vídeos con subtítulos.
+♿ Contenido accesible: textos adaptados para lectores de pantalla, imágenes con texto alternativo y enlaces directos en el PDF.
 
 📌 Navegación sencilla entre lecciones mediante enlaces al final de cada tema.
 
