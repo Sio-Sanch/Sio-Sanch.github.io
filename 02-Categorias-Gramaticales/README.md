@@ -12,9 +12,9 @@ Además, realizaremos un ejercicio práctico al final de la presentación para a
 
 ♿ Contenido accesible: adaptado para lectores de pantalla y con un vídeo con subtítulos a través del enlace.  
 
-#### 📥<a href="/02-Casos-Gramaticales/dist/Casos-Gramaticales.pdf" target="_blank">Descargar apuntes en PDF</a>
+#### 📥<a href="/02-Categorias-Gramaticales/dist/Categorias-Gramaticales.pdf" target="_blank">Descargar apuntes en PDF</a>
 
-#### 📥<a href="/02-Casos-Gramaticales/dist/index.html" target="_blank">Ver presentación (Reveal.js)</a>
+#### 📥<a href="/02-Categorias-Gramaticales/dist/index.html" target="_blank">Ver presentación (Reveal.js)</a>
 
 #### ⬅️ [Anterior lección](../01-Lecciones/README.md)
 #### ➡️ [Siguiente lección](../03-Guia%20de%20viaje/README.md)

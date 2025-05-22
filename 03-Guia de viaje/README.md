@@ -49,5 +49,5 @@
 #### 📥 <a href="/03-Guia de viaje/dist/Guia de supervivencia en Madrid - Siomara Sanchez.pdf" target="_blank">Descargar el eBook en formato PDF</a> 
 #### 📥 <a href="/03-Guia de viaje/dist/guia_madrid.epub" target="_blank">Descargar el eBook en formato epub</a>
 
-#### ⬅️ [Anterior lección](../02-Casos-Gramaticales/README.md)
+#### ⬅️ [Anterior lección](../02-Categorias-Gramaticales/README.md)
 #### ➡️ [Siguiente lección](../04-Narrativa%20Interactiva/README.md)

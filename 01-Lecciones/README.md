@@ -33,5 +33,5 @@
 
 #### 📥 <a href="/01-Lecciones/dist/lecciones.pdf" target="_blank">Descargar apuntes en PDF</a>
 #### ⬅️ [Introducción](../00-Introduccion/README.md)
-#### ➡️ [Siguiente lección](../02-Casos-Gramaticales/README.md)
+#### ➡️ [Siguiente lección](../02-Categorias-Gramaticales/README.md)
 
