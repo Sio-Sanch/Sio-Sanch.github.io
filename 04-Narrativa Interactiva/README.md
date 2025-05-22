@@ -5,7 +5,7 @@ En este bloque, los estudiantes participarán en una **historia interactiva** en
 >⚠️ **¡Atención!**  
 >**Si escogen una opción incorrecta**, volverán al inicio, lo que les permitirá practicar de nuevo y mejorar su **comprensión lectora** y **toma de decisiones** en español.
 
-Este formato lúdico refuerza el aprendizaje a través de la repetición significativa y el pensamiento crítico, ¡todo mientras se divierten!
+Este formato lúdico refuerza el aprendizaje a través de la repetición y el pensamiento crítico, ¡todo mientras se divierten!
 
 #### 📥 <a href="/04-Narrativa Interactiva/TWINE_ELE.twee" target="_blank">Descargar la narrativa en formato .twee</a> 
 #### 📥 <a href="/04-Narrativa Interactiva/TWINE_ELE.html" target="_blank">Descargar la historia interactiva en formato HTML</a> 
