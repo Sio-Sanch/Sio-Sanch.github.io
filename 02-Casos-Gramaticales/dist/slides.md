@@ -322,7 +322,7 @@ Expresan emociones o exclamaciones. They express emotions or exclamations.
   - ¡Bah! Eso no me importa. (Bah! I don't care about that.)  
   - ¡Maldita sea! Olvidé las llaves. (Damn it! I forgot the keys.)
 
-# **Practice Exercises | Ejercicios de práctica**
+# **Practice Exercise | Ejercicio de práctica**
 Lee las siguientes frases e **identifica la categoría gramatical** de las palabras resaltadas.
 
 1. Este coche es muy rápido. (**Este** - ?)  
@@ -338,6 +338,39 @@ Lee las siguientes frases e **identifica la categoría gramatical** de las palab
 4. Conjunción
 5. Preposición
 
+# Ejercicio de Identificación de Categorías Gramaticales 
+
+Lee las siguientes frases y **determina la categoría gramatical** de las palabras resaltadas.
+
+1. María **corre** rápido por el parque.    
+   Categoría: ____________
+
+2. El **libro** está sobre la mesa.   
+   Categoría: ____________
+
+3. Ellos llegaron **temprano** a la reunión.  
+   Categoría: ____________
+
+4. Me gusta el café **caliente**.  
+   Categoría: ____________
+
+5. **Ella** siempre estudia para los exámenes.  
+   Categoría: ____________
+
+6. Juan, María **y** Pedro fueron al cine.   
+   Categoría: ____________
+
+---
+
+## Soluciones
+
+1. Verbo  
+2. Sustantivo  
+3. Adverbio  
+4. Adjetivo  
+5. Pronombre  
+6. Conjunción  
+   
 <br></br>
 
 <div style="text-align: center;">
