@@ -338,7 +338,7 @@ Lee las siguientes frases e **identifica la categoría gramatical** de las palab
 4. Conjunción
 5. Preposición
 
-# Exercise on identifying | Ejercicio de identificación 
+# **Exercise on identifying | Ejercicio de identificación** 
 
 Lee las siguientes frases y **determina la categoría gramatical** de las palabras resaltadas.
 
